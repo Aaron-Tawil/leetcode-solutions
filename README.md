@@ -10,6 +10,7 @@
 | 74 | 74 - Search A 2D Matrix | Medium | [Link](https://leetcode.com/problems/search-a-2d-matrix/description/) |
 | 76 | 76 - Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/description/) |
 | 104 | 104 - Maximum Depth Of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
+| 105 | 105 - Construct Binary Tree From Preorder And Inorder Traversal | Medium | [Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |
 | 121 | 121 - Best Time To Buy And Sell A Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 141 | 141 - Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/description/) |
 | 150 | 150 - Evaluate Reverse Polish Notation | Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |
