@@ -7,8 +7,12 @@
 | 14 | 14 - Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) |
 | 17 | 17 - Letter Combinations Of A Phone Number | Medium | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |
 | 20 | 20 - Valid Parentheses | Easy | [Link](https://leetcode.com/problems/valid-parentheses/description/) |
+| 39 | 39 - Combination Sum | Medium | [Link](https://leetcode.com/problems/combination-sum/) |
+| 46 | 46 - Permutations | Medium | [Link](https://leetcode.com/problems/permutations/description/) |
 | 74 | 74 - Search A 2D Matrix | Medium | [Link](https://leetcode.com/problems/search-a-2d-matrix/description/) |
 | 76 | 76 - Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/description/) |
+| 78 | 78 - Subsets | Medium | [Link](https://leetcode.com/problems/subsets/description/) |
+| 79 | 79 - Word Search | Medium | [Link](https://leetcode.com/problems/word-search/description/) |
 | 104 | 104 - Maximum Depth Of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
 | 105 | 105 - Construct Binary Tree From Preorder And Inorder Traversal | Medium | [Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |
 | 121 | 121 - Best Time To Buy And Sell A Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
