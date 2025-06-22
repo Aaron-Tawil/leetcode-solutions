@@ -11,6 +11,7 @@
 | 39 | 39 - Combination Sum | Medium | [Link](https://leetcode.com/problems/combination-sum/) |
 | 40 | 40 - Combination Sum Ii | Medium | [Link](https://leetcode.com/problems/combination-sum-ii/) |
 | 46 | 46 - Permutations | Medium | [Link](https://leetcode.com/problems/permutations/description/) |
+| 62 | 62 - Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) |
 | 74 | 74 - Search A 2D Matrix | Medium | [Link](https://leetcode.com/problems/search-a-2d-matrix/description/) |
 | 76 | 76 - Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/description/) |
 | 78 | 78 - Subsets | Medium | [Link](https://leetcode.com/problems/subsets/description/) |
@@ -23,6 +24,7 @@
 | 133 | 133 - Clone Graph | Medium | [Link](https://leetcode.com/problems/clone-graph/description/) |
 | 139 | 139 - Word Break | Medium | [Link](https://leetcode.com/problems/word-break/description/) |
 | 141 | 141 - Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/description/) |
+| 146 | 146 - Lru Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) |
 | 150 | 150 - Evaluate Reverse Polish Notation | Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |
 | 155 | 155 - Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/description/) |
 | 169 | 169 - Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/description/) |
