@@ -39,3 +39,4 @@
 | 322 | 322 - Coin Change | Medium | [Link](https://leetcode.com/problems/coin-change/) |
 | 621 | 621 - Task Scheduler | Medium | [Link](https://leetcode.com/problems/task-scheduler/description/) |
 | 703 | 703 - Kth Largest Element In A Stream | Easy | [Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) |
+| 789 | 789 - Escape The Ghosts | Medium | [Link](https://leetcode.com/problems/escape-the-ghosts/) |

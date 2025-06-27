@@ -10,7 +10,7 @@ def clean_title(raw):
     return raw.strip().title()
 
 files = sorted(
-    [f for f in glob.glob("*.py") if not f.startswith("update_readme")],
+    [f for f in glob.glob("*.py") if re.match(r"^\d", f)],
     key=lambda f: int(f.split("-", 1)[0])
 )
 

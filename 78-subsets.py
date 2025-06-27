@@ -25,3 +25,11 @@ class Solution:
         #     for r in range(len(nums) + 1)
         #     for c in combinations(nums, r)
         # ]
+        # def backtrack(i):
+        #     if i == n:
+        #         res.append(sub.copy())       # record only at leaves
+        #         return
+        #     backtrack(i+1)                        # SKIP nums[i]
+        #     sub.append(nums[i])
+        #     backtrack(i+1)                        # INCLUDE nums[i]
+        #     sub.pop()

@@ -1,2 +1,7 @@
 watch.ps1
 _git_auto_commit.ps1
+test-selenium.py
+test-glassdoor-scarper.py
+wix_leetcode_interviews.xlsx
+wix_leetcode_interviews.csv
+~$wix_leetcode_interviews.xlsx
