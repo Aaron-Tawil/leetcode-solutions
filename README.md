@@ -37,6 +37,11 @@
 | 226 | 226 - Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/description/) |
 | 300 | 300 - Longest Increasing Subsequence | Medium | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 322 | 322 - Coin Change | Medium | [Link](https://leetcode.com/problems/coin-change/) |
+| 394 | 394 - Decode String | Medium | [Link](https://leetcode.com/problems/decode-string/) |
+| 423 | 423 - Reconstruct Original Digits From English | Medium | [Link](https://leetcode.com/problems/reconstruct-original-digits-from-english/) |
 | 621 | 621 - Task Scheduler | Medium | [Link](https://leetcode.com/problems/task-scheduler/description/) |
 | 703 | 703 - Kth Largest Element In A Stream | Easy | [Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) |
 | 789 | 789 - Escape The Ghosts | Medium | [Link](https://leetcode.com/problems/escape-the-ghosts/) |
+| 994 | 994 - Rotting Oranges | Medium | [Link](https://leetcode.com/problems/rotting-oranges/description/) |
+| 1004 | 1004 - Max Consecutive Ones Iii | Medium | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) |
+| 1631 | 1631 - Path With Minimum Effort | Medium | [Link](https://leetcode.com/problems/path-with-minimum-effort/) |
