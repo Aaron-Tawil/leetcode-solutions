@@ -88,8 +88,8 @@ def update_readme(problem_data):
     processed_problems = set()
     readme_lines = [
         "# LeetCode Solutions",
-        "| # | Title | Diff. | Tags |",
-        "|---|-------|-------|------|",
+        "| # | Title | Diff. | Tags | Solution |",
+        "|---|-------|-------|------|----------|",
     ]
 
     # Sort files based on problem number
@@ -106,7 +106,8 @@ def update_readme(problem_data):
                     title = f"[{info['title']}]({info['url']})"
                     diff = info['difficulty']
                     tags = ", ".join(info['tags'])
-                    readme_lines.append(f"| {problem_id} | {title} | {diff} | {tags} |")
+                    solution_link = f"[Solution]({file_path.replace(os.path.sep, '/')})"
+                    readme_lines.append(f"| {problem_id} | {title} | {diff} | {tags} | {solution_link} |")
                     processed_problems.add(problem_id)
                 else:
                     print(f"Warning: Could not find data for problem number {problem_id}.")
