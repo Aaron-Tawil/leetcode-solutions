@@ -1,5 +1,4 @@
 # LeetCode Solutions
-
 | # | Title | Diff. | Tags |
 |---|-------|-------|------|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion |
@@ -25,6 +24,7 @@
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Hash Table, Depth-First Search, Breadth-First Search, Graph |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Array, Greedy |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
