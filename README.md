@@ -38,6 +38,7 @@
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/226-invert-binary-tree.py) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming | [Solution](Medium/Array/300-longest-increasing-subsequence.py) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Array, Dynamic Programming, Breadth-First Search | [Solution](Medium/Array/322-coin-change.py) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Solution](Medium/Array/347-top-k-frequent-elements.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | [Solution](Medium/Recursion/394-decode-string.py) |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Solution](Medium/Array/621-task-scheduler.py) |
