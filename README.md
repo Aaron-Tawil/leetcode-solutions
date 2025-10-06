@@ -5,6 +5,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/3-longest-substring-without-repeating-characters.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/5-longest-palindromic-substring.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | [Solution](Easy/Array/14-longest-common-prefix.py) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | [Solution](Medium/Array/15-3sum.py) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Hash Table, String, Backtracking | [Solution](Medium/Backtracking/17-letter-combination-phone.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack | [Solution](Easy/Stack/20-valid-parentheses.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | String, Dynamic Programming, Backtracking | [Solution](Medium/Backtracking/22-generate-parentheses.py) |
@@ -30,6 +31,7 @@
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | Hash Table, Linked List, Design, Doubly-Linked List | [Solution](Medium/Design/146-lru-cache.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | [Solution](Medium/Array/150-evaluate-reverse-polish-notation.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | [Solution](Medium/Design/155-min-stack.py) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array, Two Pointers, Binary Search | [Solution](Medium/Array/167-two-sum-ii-input-array-is-sorted.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting | [Solution](Easy/Array/169-majority-element.py) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/198-house-robber.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/200-number-of-islands.py) |
