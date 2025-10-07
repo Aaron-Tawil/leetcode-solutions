@@ -46,6 +46,7 @@
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Solution](Medium/Array/621-task-scheduler.py) |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Solution](Easy/Binary_Search_Tree/703-kth-largest-element-in-a-stream.py) |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | [Solution](Medium/Array/739-daily-temperatures.py) |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium | Array, Math | [Solution](Medium/Array/789-escape-the-ghosts.py) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/994-rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Solution](Medium/Array/1004-max-consecutive-ones-iii.py) |
