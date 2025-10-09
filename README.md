@@ -44,6 +44,7 @@
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Solution](Medium/Array/347-top-k-frequent-elements.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | [Solution](Medium/Recursion/394-decode-string.py) |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/424-longest-repeating-character-replacement.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Solution](Medium/Array/621-task-scheduler.py) |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Solution](Easy/Binary_Search_Tree/703-kth-largest-element-in-a-stream.py) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | [Solution](Medium/Array/739-daily-temperatures.py) |
