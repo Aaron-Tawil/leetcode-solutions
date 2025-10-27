@@ -21,6 +21,7 @@
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/97-interleaving-string.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/104-maximum-depth-of-binary-tree.py) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | [Solution](Medium/Array/105-construct-binary-tree-from-preorder-and-inorder-traversal.py) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/110-balanced-binary-tree.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | [Solution](Easy/Array/121-best-time-to-buy-stock.py) |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/130-surrounded-regions.py) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking | [Solution](Medium/Backtracking/131-palindrome-partitioning.py) |
@@ -46,6 +47,7 @@
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/424-longest-repeating-character-replacement.py) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/543-diameter-of-binary-tree.py) |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Solution](Easy/Binary_Tree/572-subtree-of-another-tree.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Solution](Medium/Array/621-task-scheduler.py) |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Solution](Easy/Binary_Search_Tree/703-kth-largest-element-in-a-stream.py) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | [Solution](Medium/Array/739-daily-temperatures.py) |
