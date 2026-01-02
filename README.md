@@ -13,6 +13,7 @@
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Array, Backtracking | [Solution](Medium/Array/39-combination-sum.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Array, Backtracking | [Solution](Medium/Array/40-combination-sum-ii.py) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Array, Backtracking | [Solution](Medium/Array/46-permutations.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | [Solution](Medium/Array/53-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting | [Solution](Medium/Array/56-merge-intervals.py) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Math, Dynamic Programming, Combinatorics | [Solution](Medium/Combinatorics/62-unique-paths.py) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/72-edit-distance.py) |
