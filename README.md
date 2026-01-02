@@ -26,6 +26,7 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | [Solution](Medium/Array/105-construct-binary-tree-from-preorder-and-inorder-traversal.py) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/110-balanced-binary-tree.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | [Solution](Easy/Array/121-best-time-to-buy-stock.py) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union Find | [Solution](Medium/Array/128-longest-consecutive-sequence.py) |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/130-surrounded-regions.py) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking | [Solution](Medium/Backtracking/131-palindrome-partitioning.py) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Hash Table, Depth-First Search, Breadth-First Search, Graph | [Solution](Medium/Breadth_First_Search/133-clone-graph.py) |
@@ -37,11 +38,13 @@
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | [Solution](Medium/Array/150-evaluate-reverse-polish-notation.py) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/152-maximum-product-subarray.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | [Solution](Medium/Design/155-min-stack.py) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | Array, Binary Search | [Solution](Medium/Array/162-find-peak-element.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array, Two Pointers, Binary Search | [Solution](Medium/Array/167-two-sum-ii-input-array-is-sorted.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting | [Solution](Easy/Array/169-majority-element.py) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/198-house-robber.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/200-number-of-islands.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Depth-First Search, Breadth-First Search, Graph, Topological Sort | [Solution](Medium/Breadth_First_Search/207-course-schedule.py) |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Depth-First Search, Breadth-First Search, Graph, Topological Sort | [Solution](Medium/Breadth_First_Search/210-course-schedule-ii.py) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/213-house-robber-ii.py) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | [Solution](Medium/Array/215-kth-largest-element-in-an-array.py) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/226-invert-binary-tree.py) |
@@ -67,6 +70,7 @@
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | [Solution](Medium/Array/875-koko-eating-bananas.py) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/994-rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Solution](Medium/Array/1004-max-consecutive-ones-iii.py) |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/1091-shortest-path-in-binary-matrix.py) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix | [Solution](Medium/Array/1631-path-with-minimum-effort.py) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Easy/Breadth_First_Search/1971-find-if-path-exists-in-graph.py) |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Hard | Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set | [Solution](Hard/Array/2251-number-of-flowers-in-full-bloom.py) |
