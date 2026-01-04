@@ -18,6 +18,7 @@
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Math, Dynamic Programming, Combinatorics | [Solution](Medium/Combinatorics/62-unique-paths.py) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/72-edit-distance.py) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Array, Binary Search, Matrix | [Solution](Medium/Array/74-search-a-2d-matrix.py) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting | [Solution](Medium/Array/75-sort-colors.py) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | [Solution](Hard/Hash_Table/76-minimum-window-substring.py) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Array, Backtracking, Bit Manipulation | [Solution](Medium/Array/78-subsets.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | [Solution](Medium/Array/79-word-search.py) |
@@ -48,18 +49,22 @@
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Depth-First Search, Breadth-First Search, Graph, Topological Sort | [Solution](Medium/Breadth_First_Search/210-course-schedule-ii.py) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/213-house-robber-ii.py) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | [Solution](Medium/Array/215-kth-largest-element-in-an-array.py) |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | Math, Geometry | [Solution](Medium/Geometry/223-rectangle-area.py) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/226-invert-binary-tree.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | [Solution](Easy/Design/232-implement-queue-using-stacks.py) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Solution](Medium/Binary_Search_Tree/235-lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/238-product-of-array-except-self.py) |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum | [Solution](Medium/Array/253-meeting-rooms-ii.py) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming | [Solution](Medium/Array/300-longest-increasing-subsequence.py) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Array, Dynamic Programming, Breadth-First Search | [Solution](Medium/Array/322-coin-change.py) |
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Medium/Breadth_First_Search/323-number-of-connected-components-in-an-undirected-graph.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Solution](Medium/Array/347-top-k-frequent-elements.py) |
+| 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/370-range-addition.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | [Solution](Easy/Counting/387-first-unique-character-in-a-string.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | [Solution](Medium/Recursion/394-decode-string.py) |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/424-longest-repeating-character-replacement.py) |
+| 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | Medium | Array, Graph, Topological Sort | [Solution](Medium/Array/444-sequence-reconstruction.py) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | [Solution](Easy/Array/496-next-greater-element-i.py) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/543-diameter-of-binary-tree.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Solution](Easy/Binary_Tree/572-subtree-of-another-tree.py) |
