@@ -15,6 +15,7 @@
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Array, Backtracking | [Solution](Medium/Array/46-permutations.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | [Solution](Medium/Array/53-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting | [Solution](Medium/Array/56-merge-intervals.py) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | String | [Solution](Easy/String/58-coin-change-ii.py) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Math, Dynamic Programming, Combinatorics | [Solution](Medium/Combinatorics/62-unique-paths.py) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/72-edit-distance.py) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Array, Binary Search, Matrix | [Solution](Medium/Array/74-search-a-2d-matrix.py) |
@@ -55,11 +56,14 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Solution](Medium/Binary_Search_Tree/235-lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/238-product-of-array-except-self.py) |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum | [Solution](Medium/Array/253-meeting-rooms-ii.py) |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/256-paint-house.py) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming | [Solution](Medium/Array/300-longest-increasing-subsequence.py) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Array, Dynamic Programming, Breadth-First Search | [Solution](Medium/Array/322-coin-change.py) |
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Medium/Breadth_First_Search/323-number-of-connected-components-in-an-undirected-graph.py) |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | Math, Dynamic Programming | [Solution](Medium/Dynamic_Programming/343-integer-break.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Solution](Medium/Array/347-top-k-frequent-elements.py) |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/370-range-addition.py) |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/377-combination-sum-iv.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | [Solution](Easy/Counting/387-first-unique-character-in-a-string.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | [Solution](Medium/Recursion/394-decode-string.py) |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |

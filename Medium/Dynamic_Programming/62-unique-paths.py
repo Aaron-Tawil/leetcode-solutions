@@ -5,6 +5,9 @@
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
+        # total steps = (m-1) + (n-1)
+        # we need to choose (m-1) downward steps
+        return math.comb(m + n - 2, m - 1)
         # combinatorics (m-1)+(n-1) choose m-1
         # ensure we loop over the smaller of (m-1) and (n-1)
         k, total = min(m-1, n-1), m+n-2
