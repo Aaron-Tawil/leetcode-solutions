@@ -23,6 +23,7 @@
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | [Solution](Hard/Hash_Table/76-minimum-window-substring.py) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Array, Backtracking, Bit Manipulation | [Solution](Medium/Array/78-subsets.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | [Solution](Medium/Array/79-word-search.py) |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/91-decode-ways.py) |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/97-interleaving-string.py) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | [Solution](Medium/Binary_Tree/102-binary-tree-level-order-traversal.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/104-maximum-depth-of-binary-tree.py) |
@@ -81,6 +82,8 @@
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/994-rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Solution](Medium/Array/1004-max-consecutive-ones-iii.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/1091-shortest-path-in-binary-matrix.py) |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum | [Solution](Medium/Array/1094-car-pooling.py) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix | [Solution](Medium/Array/1631-path-with-minimum-effort.py) |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | Array, Hash Table, Math, Counting | [Solution](Medium/Array/1814-count-nice-pairs-in-an-array.py) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Easy/Breadth_First_Search/1971-find-if-path-exists-in-graph.py) |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Hard | Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set | [Solution](Hard/Array/2251-number-of-flowers-in-full-bloom.py) |
