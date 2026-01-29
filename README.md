@@ -67,6 +67,7 @@
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/377-combination-sum-iv.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | [Solution](Easy/Counting/387-first-unique-character-in-a-string.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | [Solution](Medium/Recursion/394-decode-string.py) |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/416-partition-equal-subset-sum.py) |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | Hash Table, Math, String | [Solution](Medium/Hash_Table/423-reconstruct-original-digits-from-english.py) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/424-longest-repeating-character-replacement.py) |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | Medium | Array, Graph, Topological Sort | [Solution](Medium/Array/444-sequence-reconstruction.py) |
@@ -81,6 +82,7 @@
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | [Solution](Medium/Array/875-koko-eating-bananas.py) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/994-rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Solution](Medium/Array/1004-max-consecutive-ones-iii.py) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Array, Heap (Priority Queue) | [Solution](Easy/Array/1046-last-stone-weight.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/1091-shortest-path-in-binary-matrix.py) |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum | [Solution](Medium/Array/1094-car-pooling.py) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix | [Solution](Medium/Array/1631-path-with-minimum-effort.py) |
