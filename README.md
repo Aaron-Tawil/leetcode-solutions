@@ -4,14 +4,17 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | [Solution](Medium/Linked_List/2-add-two-numbers.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | [Solution](Medium/Hash_Table/3-longest-substring-without-repeating-characters.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming | [Solution](Medium/Dynamic_Programming/5-longest-palindromic-substring.py) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | [Solution](Medium/Array/11-container-with-most-water.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | [Solution](Easy/Array/14-longest-common-prefix.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | [Solution](Medium/Array/15-3sum.py) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Hash Table, String, Backtracking | [Solution](Medium/Backtracking/17-letter-combination-phone.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack | [Solution](Easy/Stack/20-valid-parentheses.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | [Solution](Easy/Linked_List/21-merge-two-sorted-lists.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | String, Dynamic Programming, Backtracking | [Solution](Medium/Backtracking/22-generate-parentheses.py) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Array, Hash Table, Matrix | [Solution](Medium/Array/36-valid-sudoku.py) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Array, Backtracking | [Solution](Medium/Array/39-combination-sum.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Array, Backtracking | [Solution](Medium/Array/40-combination-sum-ii.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Solution](Hard/Array/42-trapping-rain-water.py) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Array, Backtracking | [Solution](Medium/Array/46-permutations.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | [Solution](Medium/Array/53-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting | [Solution](Medium/Array/56-merge-intervals.py) |
