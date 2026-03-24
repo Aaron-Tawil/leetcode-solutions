@@ -76,6 +76,7 @@
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | Medium | Array, Graph, Topological Sort | [Solution](Medium/Array/444-sequence-reconstruction.py) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | [Solution](Easy/Array/496-next-greater-element-i.py) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/543-diameter-of-binary-tree.py) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | [Solution](Medium/Hash_Table/567-permutation-in-string.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Solution](Easy/Binary_Tree/572-subtree-of-another-tree.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Solution](Medium/Array/621-task-scheduler.py) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/695-max-area-of-island.py) |
