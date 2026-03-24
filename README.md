@@ -11,6 +11,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack | [Solution](Easy/Stack/20-valid-parentheses.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | [Solution](Easy/Linked_List/21-merge-two-sorted-lists.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | String, Dynamic Programming, Backtracking | [Solution](Medium/Backtracking/22-generate-parentheses.py) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Solution](Hard/Divide_and_Conquer/23-merge-k-sorted-lists.py) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Array, Hash Table, Matrix | [Solution](Medium/Array/36-valid-sudoku.py) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Array, Backtracking | [Solution](Medium/Array/39-combination-sum.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Array, Backtracking | [Solution](Medium/Array/40-combination-sum-ii.py) |
