@@ -59,6 +59,7 @@
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Solution](Easy/Binary_Tree/226-invert-binary-tree.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | [Solution](Easy/Design/232-implement-queue-using-stacks.py) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Solution](Medium/Binary_Search_Tree/235-lowest-common-ancestor-of-a-binary-search-tree.py) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Tree, Depth-First Search, Binary Tree | [Solution](Medium/Binary_Tree/236-lowest-common-ancestor-of-a-binary-tree.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/238-product-of-array-except-self.py) |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum | [Solution](Medium/Array/253-meeting-rooms-ii.py) |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/256-paint-house.py) |
