@@ -64,6 +64,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/238-product-of-array-except-self.py) |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum | [Solution](Medium/Array/253-meeting-rooms-ii.py) |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/256-paint-house.py) |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | Array, Two Pointers, Binary Search, Bit Manipulation | [Solution](Medium/Array/287-find-the-duplicate-number.py) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming | [Solution](Medium/Array/300-longest-increasing-subsequence.py) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Array, Dynamic Programming, Breadth-First Search | [Solution](Medium/Array/322-coin-change.py) |
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Medium/Breadth_First_Search/323-number-of-connected-components-in-an-undirected-graph.py) |
