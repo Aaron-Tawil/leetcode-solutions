@@ -90,6 +90,7 @@
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium | Array, Math | [Solution](Medium/Array/789-escape-the-ghosts.py) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Array, Stack, Sorting, Monotonic Stack | [Solution](Medium/Array/853-car-fleet.py) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | [Solution](Medium/Array/875-koko-eating-bananas.py) |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect | [Solution](Medium/Array/973-k-closest-points-to-origin.py) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | [Solution](Medium/Array/994-rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Solution](Medium/Array/1004-max-consecutive-ones-iii.py) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Array, Heap (Priority Queue) | [Solution](Easy/Array/1046-last-stone-weight.py) |
