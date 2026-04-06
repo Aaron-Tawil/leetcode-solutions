@@ -70,6 +70,7 @@
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union Find, Graph | [Solution](Medium/Breadth_First_Search/323-number-of-connected-components-in-an-undirected-graph.py) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | Math, Dynamic Programming | [Solution](Medium/Dynamic_Programming/343-integer-break.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Solution](Medium/Array/347-top-k-frequent-elements.py) |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | [Solution](Medium/Design/355-design-twitter.py) |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | Array, Prefix Sum | [Solution](Medium/Array/370-range-addition.py) |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/377-combination-sum-iv.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | [Solution](Easy/Counting/387-first-unique-character-in-a-string.py) |
