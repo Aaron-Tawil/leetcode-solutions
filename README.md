@@ -19,6 +19,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Solution](Hard/Array/42-trapping-rain-water.py) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Array, Backtracking | [Solution](Medium/Array/46-permutations.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | [Solution](Medium/Array/53-maximum-subarray.py) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Array, Dynamic Programming, Greedy | [Solution](Medium/Array/55-jump-game.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting | [Solution](Medium/Array/56-merge-intervals.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | String | [Solution](Easy/String/58-coin-change-ii.py) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Math, Dynamic Programming, Combinatorics | [Solution](Medium/Combinatorics/62-unique-paths.py) |
