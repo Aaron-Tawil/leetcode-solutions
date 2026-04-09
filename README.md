@@ -91,6 +91,7 @@
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Solution](Easy/Binary_Search_Tree/703-kth-largest-element-in-a-stream.py) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | [Solution](Easy/Array/706-design-hashmap.py) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | [Solution](Medium/Array/739-daily-temperatures.py) |
+| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path | [Solution](Medium/Breadth_First_Search/743-network-delay-time.py) |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium | Array, Math | [Solution](Medium/Array/789-escape-the-ghosts.py) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Array, Stack, Sorting, Monotonic Stack | [Solution](Medium/Array/853-car-fleet.py) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | [Solution](Medium/Array/875-koko-eating-bananas.py) |
