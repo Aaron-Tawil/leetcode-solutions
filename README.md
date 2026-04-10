@@ -54,6 +54,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/198-house-robber.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | [Solution](Medium/Array/200-number-of-islands.py) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Depth-First Search, Breadth-First Search, Graph, Topological Sort | [Solution](Medium/Breadth_First_Search/207-course-schedule.py) |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | Hash Table, String, Design, Trie | [Solution](Medium/Design/208-implement-trie-prefix-tree.py) |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Depth-First Search, Breadth-First Search, Graph, Topological Sort | [Solution](Medium/Breadth_First_Search/210-course-schedule-ii.py) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | [Solution](Medium/Array/213-house-robber-ii.py) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | [Solution](Medium/Array/215-kth-largest-element-in-an-array.py) |
